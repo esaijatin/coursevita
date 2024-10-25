@@ -10,7 +10,7 @@ Each certificate should include a unique QR code for verification.
 Use FastAPI for QR code generation, React for frontend, and MongoDB to store certificate data.
 
 Our Team consists of:
-Anudeep (IT) 21311A12R3
-Kuladeep (ECE) 21311A04DG
-Jatin (IOT) 21311A6902
+Anudeep (IT) 21311A12R3  
+ Kuladeep (ECE) 21311A04DG  
+ Jatin (IOT) 21311A6902  
 
